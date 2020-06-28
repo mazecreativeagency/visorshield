@@ -1,3 +1,5 @@
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3bcf23");
 /**
  * @license
  * MyFonts Webfont Build ID 3919651, 2020-06-27T20:16:49-0400
@@ -17,10 +19,6 @@
  * © 2020 MyFonts Inc
 */
 
-
-/* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/3bcf23");
-  
 @font-face {
   font-family: 'Jawbreak-Sans';
   src: url('webFonts/Jawbreak-Sans/font.woff2') format('woff2'), url('webFonts/Jawbreak-Sans/font.woff') format('woff');
